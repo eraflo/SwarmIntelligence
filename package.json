@@ -1,0 +1,15 @@
+{
+    "name": "com.swarmintelligence.package",
+    "displayName": "Swarm Intelligence Algorithms Package",
+    "version": "0.0.1",
+    "description": "Package with an implementation of Swarm Intelligence Algorithms in Unity",
+    "unity": "2022.3",
+    "author": {
+        "name": "Florian Maillard",
+        "email": "florian.maillard@viacesi.fr"
+    },
+    "dependencies": {
+        "com.arts.package" : "*"
+    },
+    "type": "tool"
+}
